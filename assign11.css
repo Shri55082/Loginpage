@@ -1,0 +1,21 @@
+h2{
+    text-align: center;
+}
+.nav1 img{
+    text-decoration: none;
+    margin-top: 10px 0px 10px 0px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+body{
+  
+    display: flex;
+    align-items: center;
+}
+.tb1{
+    margin-left: 120px;
+}
+.tb2{
+    margin-left: 120px;
+}
